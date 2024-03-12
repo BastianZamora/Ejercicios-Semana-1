@@ -1,5 +1,5 @@
-edad = int(input())
-precio = 5000
+edad = int(input("Ingrese edad: "))
+precio = int(Input("Ingrese precio entrada: "))
 if edad < 6:
     print("No cumple con edad mínima")
     exit()

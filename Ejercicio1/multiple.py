@@ -1,5 +1,5 @@
 edad = int(input("Ingrese edad: "))
-precio = 5000
+precio = int(input("Ingrese precio entrada: "))
 
 if 5 < edad <= 14:
     descuento = 0.35
